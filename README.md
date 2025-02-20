@@ -32,4 +32,5 @@ Include a screenshot or GIF of the page here to give a visual preview of the rec
 
 ## 📄 License
 
-This project is open for use. Feel free to modify and share!
+This project was created as part of the [**Fullstack Course by Rocketseat**](https://www.rocketseat.com.br).  
+Feel free to modify and share, respecting the guidelines of the course. 
